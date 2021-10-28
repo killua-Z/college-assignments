@@ -7,5 +7,5 @@ int main(){
 	int a1,a2,a3,a4,a5,a6,a7,a8,a9,a10;
 	printf("enter 10 integers for reading: ");
 	scanf(" %d %d %d %d %d %d %d %d %d %d", &a1, &a2, &a3, &a4, &a5, &a6, &a7, &a8, &a9, &a10);
-	printf("the integers are: %d,%d,%d,%d,%d,%d,%d,%d,%d,%d\n", a1,a2,a3,a4,a5,a6,a7,a8,a9,a10);
+	printf("the integers are:\n%4d,%4d,%4d \n%4d,%4d,%4d \n%4d,%4d,%4d \n%4d \n", a1,a2,a3,a4,a5,a6,a7,a8,a9,a10);
 }
